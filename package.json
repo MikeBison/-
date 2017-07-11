@@ -1,0 +1,17 @@
+{
+  "name": "node_spider",
+  "version": "1.0.0",
+  "description": "a douban game page spider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mikebison",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "mysql2": "^1.3.5",
+    "sequelize": "^4.2.1",
+    "ueditor": "^1.2.3"
+  }
+}
